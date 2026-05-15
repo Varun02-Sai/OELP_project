@@ -1,0 +1,8 @@
+*.asv
+*.slxc
+outputs/
+outputs.zip
+extract_pdf*.txt
+extracted_text.txt
+pdf_content.txt
+ppt_content.txt
